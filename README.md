@@ -8,3 +8,5 @@ The usage is somewhat straightforward since the emphasis is made on the simplisc
 - Use sliders to adjust your and your partner's heights.
 - Use radion button to select your and your partner's sex.
 - Predicted child's height is displayed on the graph to the right together with accompanying prediction and status text below the graph.
+
+[Shiny APP](https://tingo.shinyapps.io/DDP_Shiny_app/)
